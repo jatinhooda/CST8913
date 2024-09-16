@@ -1,4 +1,4 @@
-1-What are the company's motivators of migration to the cloud?
+# 1-What are the company's motivators of migration to the cloud?
 Unity’s decision to migrate to the cloud was driven by several key factors:
 - **Scalability**: Moving to Microsoft Azure allows Unity to support a growing number of users and developers without worrying about performance issues.
 - **Faster Troubleshooting**: With AI services like Muse Chat, powered by Azure OpenAI, developers can quickly identify and fix problems without sifting through endless documentation.
@@ -7,7 +7,7 @@ Unity’s decision to migrate to the cloud was driven by several key factors:
 
 
 
-   2-What questions will you ask to understand more about the company infrastructure?
+# 2-What questions will you ask to understand more about the company infrastructure?
 1. What on-premise systems (if any) are currently being used?
 2. How much of the infrastructure is already in the cloud?
 3. Which cloud providers or services are being utilized?
@@ -18,7 +18,7 @@ Unity’s decision to migrate to the cloud was driven by several key factors:
 
 
 
-3-Produce a RACI matrix for the migration stakeholders
+# 3-Produce a RACI matrix for the migration stakeholders
 | **Task/Role**                  | **Responsible**           | **Accountable**            | **Consulted**              | **Informed**               |
 |---------------------------------|---------------------------|----------------------------|----------------------------|----------------------------|
 | **Setting Up Cloud Infrastructure** | Cloud Engineers            | IT Director                 | Microsoft Azure Team        | Developers, Security Teams  |
@@ -31,14 +31,14 @@ Unity’s decision to migrate to the cloud was driven by several key factors:
 
 
 
-4-Describe the most likely migration approach that will suit the chosen company.
+# 4-Describe the most likely migration approach that will suit the chosen company.
 - **Phased Migration**: By moving smaller, less critical components to the cloud first, Unity can minimize disruptions while ensuring everything works smoothly. This allows for gradual testing and adjustment as each piece of the system transitions.
 - **Hybrid Approach**: Unity can also maintain some of its on-prem systems for essential tasks while moving others to the cloud. This gives the company flexibility while it makes the shift and ensures that critical processes aren't interrupted.
 
 
 
 
-5-Produce a high level schedule for the migration process
+# 5-Produce a high level schedule for the migration process
  **Weeks 1-2**: Evaluate the current infrastructure and finalize the cloud migration strategy.
 - **Weeks 3-5**: Set up the cloud environment (configure Azure infrastructure, networking, and security).
 - **Weeks 6-8**: Begin migrating non-critical systems and testing workloads.
@@ -49,7 +49,7 @@ Unity’s decision to migrate to the cloud was driven by several key factors:
 
 
 
-6What are the main decision criteria for the chosen company?
+# 6-What are the main decision criteria for the chosen company?
 - **Performance and Reliability**: Azure must deliver the performance and uptime Unity needs to serve its global user base effectively.
 - **Security and Compliance**: Ensuring that Azure meets all security and compliance requirements related to game development and data protection is critical.
 - **Cost Efficiency**: The costs of running cloud infrastructure will need to be weighed against the benefits.
